@@ -1,0 +1,5 @@
+li:hover{
+    background-color: rgb(167, 230, 104);
+    border-radius: 12px;
+    border: 2px solid rgb(223, 243, 5);
+}
